@@ -1,7 +1,0 @@
-{
-  "$id": "ce_movie",
-  "$schema": "https://schema.yext.com/config/km/entity-type/v2",
-  "description": "",
-  "displayName": "Movie",
-  "pluralDisplayName": "Movies"
-}

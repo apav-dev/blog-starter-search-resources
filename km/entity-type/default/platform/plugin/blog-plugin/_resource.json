@@ -1,7 +1,0 @@
-{
-  "$id": "blog-plugin",
-  "$schema": "https://schema.yext.com/config/platform/plugin/v1",
-  "globals": {
-    "RAWG_API_KEY": "26605fc216db4730a8fb44344439c40c"
-  }
-}
