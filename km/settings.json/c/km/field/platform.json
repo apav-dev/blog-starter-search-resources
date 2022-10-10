@@ -1,0 +1,14 @@
+{
+  "$id": "c_platform",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Platform",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "stringType": {
+      "stereotype": "SIMPLE",
+      "maxLength": 512
+    }
+  },
+  "typeId": "string"
+}

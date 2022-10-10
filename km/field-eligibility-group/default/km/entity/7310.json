@@ -1,0 +1,219 @@
+{
+  "$id": "7310",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_genres": [
+      "Arcade",
+      "Adventure",
+      "Action"
+    ],
+    "c_platform": "iOS",
+    "c_releaseDate": "2009-03-27",
+    "name": "Doodle Jump",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 512,
+          "sourceUrl": "https://media.rawg.io/media/screenshots/361/361eb017e53d74af1515bf5b729b6b12.jpg",
+          "thumbnails": [
+            {
+              "height": 512,
+              "url": "http://a.mktgcdn.com/p/tTdIi-qA3vEgeRVKUmUnUDy29dn41KIxla1qUU1TUfE/288x512.jpg",
+              "width": 288
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/tTdIi-qA3vEgeRVKUmUnUDy29dn41KIxla1qUU1TUfE/253x450.jpg",
+              "width": 253
+            },
+            {
+              "height": 348,
+              "url": "http://a.mktgcdn.com/p/tTdIi-qA3vEgeRVKUmUnUDy29dn41KIxla1qUU1TUfE/196x348.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/tTdIi-qA3vEgeRVKUmUnUDy29dn41KIxla1qUU1TUfE/288x512.jpg",
+          "width": 288
+        }
+      },
+      {
+        "image": {
+          "height": 696,
+          "sourceUrl": "https://media.rawg.io/media/screenshots/ad4/ad414fb49ae0d2e5b69e76c2aacd8878.jpg",
+          "thumbnails": [
+            {
+              "height": 696,
+              "url": "http://a.mktgcdn.com/p/ryIXvohXWnuTYVbJCAz_Zs7JVqFEyBQxfKetBwYKyo8/392x696.jpg",
+              "width": 392
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/ryIXvohXWnuTYVbJCAz_Zs7JVqFEyBQxfKetBwYKyo8/253x450.jpg",
+              "width": 253
+            },
+            {
+              "height": 348,
+              "url": "http://a.mktgcdn.com/p/ryIXvohXWnuTYVbJCAz_Zs7JVqFEyBQxfKetBwYKyo8/196x348.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/ryIXvohXWnuTYVbJCAz_Zs7JVqFEyBQxfKetBwYKyo8/392x696.jpg",
+          "width": 392
+        }
+      },
+      {
+        "image": {
+          "height": 696,
+          "sourceUrl": "https://media.rawg.io/media/screenshots/9ef/9ef5cd25836872fe41bb1b9907066827.jpg",
+          "thumbnails": [
+            {
+              "height": 696,
+              "url": "http://a.mktgcdn.com/p/A3n065-53V7PitUFxLU6g0wo4QGj1L9o2U27sp5maMk/392x696.jpg",
+              "width": 392
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/A3n065-53V7PitUFxLU6g0wo4QGj1L9o2U27sp5maMk/253x450.jpg",
+              "width": 253
+            },
+            {
+              "height": 348,
+              "url": "http://a.mktgcdn.com/p/A3n065-53V7PitUFxLU6g0wo4QGj1L9o2U27sp5maMk/196x348.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/A3n065-53V7PitUFxLU6g0wo4QGj1L9o2U27sp5maMk/392x696.jpg",
+          "width": 392
+        }
+      },
+      {
+        "image": {
+          "height": 696,
+          "sourceUrl": "https://media.rawg.io/media/screenshots/d5e/d5e55439efaa4b6b2da2b6aa8a270401.jpg",
+          "thumbnails": [
+            {
+              "height": 696,
+              "url": "http://a.mktgcdn.com/p/rarvzdDIiftpxuIJVMmEfEgWSuRWVu-eLfDzH6d2LNY/392x696.jpg",
+              "width": 392
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/rarvzdDIiftpxuIJVMmEfEgWSuRWVu-eLfDzH6d2LNY/253x450.jpg",
+              "width": 253
+            },
+            {
+              "height": 348,
+              "url": "http://a.mktgcdn.com/p/rarvzdDIiftpxuIJVMmEfEgWSuRWVu-eLfDzH6d2LNY/196x348.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/rarvzdDIiftpxuIJVMmEfEgWSuRWVu-eLfDzH6d2LNY/392x696.jpg",
+          "width": 392
+        }
+      },
+      {
+        "image": {
+          "height": 696,
+          "sourceUrl": "https://media.rawg.io/media/screenshots/a98/a981b9d4a85e7005cd42e504057cec86.jpg",
+          "thumbnails": [
+            {
+              "height": 696,
+              "url": "http://a.mktgcdn.com/p/xkH3632c4HzpeyV528WaAmQ7SJBYIEF0VuISEu0XH0o/392x696.jpg",
+              "width": 392
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/xkH3632c4HzpeyV528WaAmQ7SJBYIEF0VuISEu0XH0o/253x450.jpg",
+              "width": 253
+            },
+            {
+              "height": 348,
+              "url": "http://a.mktgcdn.com/p/xkH3632c4HzpeyV528WaAmQ7SJBYIEF0VuISEu0XH0o/196x348.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/xkH3632c4HzpeyV528WaAmQ7SJBYIEF0VuISEu0XH0o/392x696.jpg",
+          "width": 392
+        }
+      },
+      {
+        "image": {
+          "height": 696,
+          "sourceUrl": "https://media.rawg.io/media/screenshots/570/570a1a246d66038ecbb47c72c1d762e0.jpg",
+          "thumbnails": [
+            {
+              "height": 696,
+              "url": "http://a.mktgcdn.com/p/wHUG13d_efF3E3RjBOaWyrUGX8kauMBS8_RueJOAUVE/392x696.jpg",
+              "width": 392
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/wHUG13d_efF3E3RjBOaWyrUGX8kauMBS8_RueJOAUVE/253x450.jpg",
+              "width": 253
+            },
+            {
+              "height": 348,
+              "url": "http://a.mktgcdn.com/p/wHUG13d_efF3E3RjBOaWyrUGX8kauMBS8_RueJOAUVE/196x348.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/wHUG13d_efF3E3RjBOaWyrUGX8kauMBS8_RueJOAUVE/392x696.jpg",
+          "width": 392
+        }
+      },
+      {
+        "image": {
+          "height": 696,
+          "sourceUrl": "https://media.rawg.io/media/screenshots/f95/f951ebe98a542397532c2ac9ad02527d.jpeg",
+          "thumbnails": [
+            {
+              "height": 696,
+              "url": "http://a.mktgcdn.com/p/4kYEN8am-QiLAQr6ZlQkMSB3xNzzPVUb8DhWB1ilXh0/392x696.jpg",
+              "width": 392
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/4kYEN8am-QiLAQr6ZlQkMSB3xNzzPVUb8DhWB1ilXh0/253x450.jpg",
+              "width": 253
+            },
+            {
+              "height": 348,
+              "url": "http://a.mktgcdn.com/p/4kYEN8am-QiLAQr6ZlQkMSB3xNzzPVUb8DhWB1ilXh0/196x348.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/4kYEN8am-QiLAQr6ZlQkMSB3xNzzPVUb8DhWB1ilXh0/392x696.jpg",
+          "width": 392
+        }
+      },
+      {
+        "image": {
+          "height": 512,
+          "sourceUrl": "https://media.rawg.io/media/screenshots/361/361eb017e53d74af1515bf5b729b6b12.jpg",
+          "thumbnails": [
+            {
+              "height": 512,
+              "url": "http://a.mktgcdn.com/p/tTdIi-qA3vEgeRVKUmUnUDy29dn41KIxla1qUU1TUfE/288x512.jpg",
+              "width": 288
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/tTdIi-qA3vEgeRVKUmUnUDy29dn41KIxla1qUU1TUfE/253x450.jpg",
+              "width": 253
+            },
+            {
+              "height": 348,
+              "url": "http://a.mktgcdn.com/p/tTdIi-qA3vEgeRVKUmUnUDy29dn41KIxla1qUU1TUfE/196x348.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/tTdIi-qA3vEgeRVKUmUnUDy29dn41KIxla1qUU1TUfE/288x512.jpg",
+          "width": 288
+        }
+      }
+    ]
+  },
+  "entityType": "ce_vldeoGame",
+  "labels": []
+}

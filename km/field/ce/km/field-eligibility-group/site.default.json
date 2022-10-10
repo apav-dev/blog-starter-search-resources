@@ -1,0 +1,20 @@
+{
+  "$id": "ce_site.default",
+  "$schema": "https://schema.yext.com/config/km/field-eligibility-group/v1",
+  "name": "Site-default",
+  "entityType": "ce_site",
+  "fields": [
+    "c_devTo",
+    "c_github",
+    "c_headshot",
+    "c_home",
+    "c_interests",
+    "c_introduction",
+    "c_role",
+    "c_skills",
+    "c_twitter",
+    "firstName",
+    "lastName"
+  ],
+  "required": []
+}

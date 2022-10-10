@@ -1,0 +1,86 @@
+{
+  "$id": "ce_site",
+  "$schema": "https://schema.yext.com/config/km/field-presentation/v1",
+  "entityType": "ce_site",
+  "displayName": "Site",
+  "presentationEntries": [
+    {
+      "displayName": "Content",
+      "entryType": "DIVIDER"
+    },
+    {
+      "displayName": "Core Information",
+      "entryType": "SECTION",
+      "fields": [
+        {
+          "id": "name",
+          "visibleOnAdd": true
+        },
+        {
+          "id": "firstName",
+          "visibleOnAdd": true
+        },
+        {
+          "id": "lastName",
+          "visibleOnAdd": true
+        },
+        {
+          "id": "entityId",
+          "visibleOnAdd": true
+        },
+        {
+          "id": "c_role",
+          "visibleOnAdd": true
+        },
+        {
+          "id": "c_headshot",
+          "visibleOnAdd": true
+        },
+        {
+          "id": "c_devTo",
+          "visibleOnAdd": true
+        },
+        {
+          "id": "c_github",
+          "visibleOnAdd": true
+        },
+        {
+          "id": "c_twitter",
+          "visibleOnAdd": true
+        },
+        {
+          "id": "c_home",
+          "visibleOnAdd": true
+        },
+        {
+          "id": "c_introduction",
+          "visibleOnAdd": true
+        },
+        {
+          "id": "c_skills",
+          "visibleOnAdd": true
+        },
+        {
+          "id": "c_interests",
+          "visibleOnAdd": true
+        }
+      ]
+    },
+    {
+      "displayName": "Other",
+      "entryType": "DIVIDER"
+    },
+    {
+      "displayName": "Internal Use Only",
+      "entryType": "SECTION",
+      "fields": [
+        {
+          "id": "folder"
+        },
+        {
+          "id": "labels"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "$id": "path-reformer-vocalize-73f80",
+  "$schema": "https://schema.yext.com/config/pages/yextsite-config/v1",
+  "siteName": "Aaron\u0027s Site",
+  "repoConfig": "ideally-daffodil-hazily-f2274",
+  "siteSettings": {
+    "autoDeploy": true,
+    "autoStage": true,
+    "autoPublish": false,
+    "pullRequestsEnabled": false,
+    "stagingCredentials": {
+      "password": "",
+      "username": ""
+    }
+  },
+  "branches": [
+    {
+      "name": "main",
+      "envVars": [],
+      "isProductionBranch": true
+    },
+    {
+      "name": "delete-me",
+      "envVars": [],
+      "isProductionBranch": false
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "$id": "ce_book.default",
+  "$schema": "https://schema.yext.com/config/km/field-eligibility-group/v1",
+  "name": "Book-default",
+  "entityType": "ce_book",
+  "fields": [
+    "c_author",
+    "c_bookCover",
+    "c_yearPublished",
+    "description"
+  ],
+  "required": []
+}

@@ -1,0 +1,39 @@
+{
+  "$id": "4106765457231112305",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_author": "J.R.R. Tolkien",
+    "c_bookCover": {
+      "image": {
+        "height": 500,
+        "sourceUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1654215925i/61215351.jpg",
+        "thumbnails": [
+          {
+            "height": 500,
+            "url": "https://a.mktgcdn.com/p/1-kMYhcRosxy3c14zf6WQlGhzs5okghfDCl0iFjTAe0/332x500.jpg",
+            "width": 332
+          },
+          {
+            "height": 450,
+            "url": "https://a.mktgcdn.com/p/1-kMYhcRosxy3c14zf6WQlGhzs5okghfDCl0iFjTAe0/299x450.jpg",
+            "width": 299
+          },
+          {
+            "height": 295,
+            "url": "https://a.mktgcdn.com/p/1-kMYhcRosxy3c14zf6WQlGhzs5okghfDCl0iFjTAe0/196x295.jpg",
+            "width": 196
+          }
+        ],
+        "url": "https://a.mktgcdn.com/p/1-kMYhcRosxy3c14zf6WQlGhzs5okghfDCl0iFjTAe0/332x500.jpg",
+        "width": 332
+      }
+    },
+    "c_yearPublished": "1954",
+    "description": "One Ring to rule them all, One Ring to find them, One Ring to bring them all and in the darkeness bind them\n\nIn ancient times the Rings of Power were crafted by the Elven-smiths, and Sauron, The Dark Lord, forged the One Ring, filling it with his own power so that he could rule all others. But the One Ring was taken from him, and though he sought it throughout Middle-earth, it remained lost to him. After many ages it fell into the hands of Bilbo Baggins, as told in The Hobbit.\n\nIn a sleepy village in the Shire, young Frodo Baggins finds himself faced with an immense task, as his elderly cousin Bilbo entrusts the Ring to his care. Frodo must leave his home and make a perilous journey across Middle-earth to the Cracks of Doom, there to destroy the Ring and foil the Dark Lord in his evil purpose.",
+    "name": "The Fellowship of the Ring"
+  },
+  "entityType": "ce_book",
+  "folder": "yext/root",
+  "labels": []
+}

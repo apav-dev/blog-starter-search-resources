@@ -1,0 +1,18 @@
+{
+  "$id": "c_interests",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Interests",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "listType": {
+      "typeId": "string",
+      "type": {
+        "stringType": {
+          "stereotype": "SIMPLE"
+        }
+      }
+    }
+  },
+  "typeId": "list"
+}

@@ -1,0 +1,39 @@
+{
+  "$id": "5423436743020541053",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_author": "J.R.R. Tolkien",
+    "c_bookCover": {
+      "image": {
+        "height": 500,
+        "sourceUrl": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1654216149i/61215372.jpg",
+        "thumbnails": [
+          {
+            "height": 500,
+            "url": "https://a.mktgcdn.com/p/RmvInkTsV3bTBj5ogUu3GyTA9SjeD3UnCnVhMtp5V08/332x500.jpg",
+            "width": 332
+          },
+          {
+            "height": 450,
+            "url": "https://a.mktgcdn.com/p/RmvInkTsV3bTBj5ogUu3GyTA9SjeD3UnCnVhMtp5V08/299x450.jpg",
+            "width": 299
+          },
+          {
+            "height": 295,
+            "url": "https://a.mktgcdn.com/p/RmvInkTsV3bTBj5ogUu3GyTA9SjeD3UnCnVhMtp5V08/196x295.jpg",
+            "width": 196
+          }
+        ],
+        "url": "https://a.mktgcdn.com/p/RmvInkTsV3bTBj5ogUu3GyTA9SjeD3UnCnVhMtp5V08/332x500.jpg",
+        "width": 332
+      }
+    },
+    "c_yearPublished": "1954",
+    "description": "The Two Towers is the second part of J.R.R. Tolkien’s epic adventure The Lord of the Rings.\n\nOne Ring to rule them all, One Ring to find them, One Ring to bring them all and in the darkness bind them.\n\nFrodo and his Companions of the Ring have been beset by danger during their quest to prevent the Ruling Ring from falling into the hands of the Dark Lord by destroying it in the Cracks of Doom. They have lost the wizard, Gandalf, in a battle in the Mines of Moria. And Boromir, seduced by the power of the Ring, tried to seize it by force. While Frodo and Sam made their escape, the rest of the company was attacked by Orcs. Now they continue the journey alone down the great River Anduin—alone, that is, save for the mysterious creeping figure that follows wherever they go.",
+    "name": "The Two Towers"
+  },
+  "entityType": "ce_book",
+  "folder": "yext/root",
+  "labels": []
+}

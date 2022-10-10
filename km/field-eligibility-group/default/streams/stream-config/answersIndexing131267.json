@@ -1,0 +1,25 @@
+{
+  "$id": "answersIndexing131267",
+  "$schema": "https://schema.yext.com/config/streams/stream-config/v1",
+  "source": "knowledgeGraph",
+  "destination": "answers",
+  "fields": [
+    "uid",
+    "meta",
+    "timezone",
+    "name",
+    "savedFilters",
+    "id",
+    "datePosted"
+  ],
+  "filter": {
+    "entityTypes": [
+      "ce_blog"
+    ]
+  },
+  "localization": {
+    "locales": [
+      "en"
+    ]
+  }
+}

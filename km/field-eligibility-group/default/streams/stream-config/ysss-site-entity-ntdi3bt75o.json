@@ -1,0 +1,33 @@
+{
+  "$id": "ysss-site-entity-ntdi3bt75o",
+  "$schema": "https://schema.yext.com/config/streams/stream-config/v1",
+  "source": "knowledgeGraph",
+  "destination": "pages",
+  "fields": [
+    "firstName",
+    "lastName",
+    "c_role",
+    "c_headshot",
+    "c_twitter",
+    "c_github",
+    "c_devTo",
+    "c_introduction",
+    "c_home",
+    "c_interests",
+    "c_skills",
+    "meta.locale",
+    "meta.entityType",
+    "id",
+    "uid"
+  ],
+  "filter": {
+    "entityIds": [
+      "site"
+    ]
+  },
+  "localization": {
+    "locales": [
+      "en"
+    ]
+  }
+}

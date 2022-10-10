@@ -1,0 +1,52 @@
+{
+  "$id": "4208799311149720928",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "c_moviePoster": {
+      "image": {
+        "height": 2936,
+        "sourceUrl": "https://m.media-amazon.com/images/M/MV5BN2EyZjM3NzUtNWUzMi00MTgxLWI0NTctMzY4M2VlOTdjZWRiXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_.jpg",
+        "thumbnails": [
+          {
+            "height": 2936,
+            "url": "https://a.mktgcdn.com/p/uJZ6ReD05-vgFDf6XxV88I-paQXlRlKFYjQ-FHn4pHY/1978x2936.jpg",
+            "width": 1978
+          },
+          {
+            "height": 1900,
+            "url": "https://a.mktgcdn.com/p/uJZ6ReD05-vgFDf6XxV88I-paQXlRlKFYjQ-FHn4pHY/1280x1900.jpg",
+            "width": 1280
+          },
+          {
+            "height": 919,
+            "url": "https://a.mktgcdn.com/p/uJZ6ReD05-vgFDf6XxV88I-paQXlRlKFYjQ-FHn4pHY/619x919.jpg",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "https://a.mktgcdn.com/p/uJZ6ReD05-vgFDf6XxV88I-paQXlRlKFYjQ-FHn4pHY/303x450.jpg",
+            "width": 303
+          },
+          {
+            "height": 291,
+            "url": "https://a.mktgcdn.com/p/uJZ6ReD05-vgFDf6XxV88I-paQXlRlKFYjQ-FHn4pHY/196x291.jpg",
+            "width": 196
+          }
+        ],
+        "url": "https://a.mktgcdn.com/p/uJZ6ReD05-vgFDf6XxV88I-paQXlRlKFYjQ-FHn4pHY/1978x2936.jpg",
+        "width": 1978
+      }
+    },
+    "description": "A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.",
+    "name": "The Lord of the Rings: The Fellowship of the Ring"
+  },
+  "entityType": "ce_movie",
+  "folder": "yext/root",
+  "labels": []
+}

@@ -1,0 +1,86 @@
+{
+  "$id": "videoGameSource",
+  "$schema": "https://schema.yext.com/config/km/connector/v3",
+  "displayName": "Video Game Source",
+  "entityType": "ce_vldeoGame",
+  "source": {
+    "sourceConfig": {
+      "functionConfig": {
+        "plugin": "blog-plugin",
+        "function": "videoGamesSource",
+        "dataFormat": "JSON"
+      }
+    },
+    "selectors": [
+      {
+        "type": "JSON",
+        "header": "name",
+        "path": "name"
+      },
+      {
+        "type": "JSON",
+        "header": "platform",
+        "path": "platform"
+      },
+      {
+        "type": "JSON",
+        "header": "releaseDate",
+        "path": "releaseDate"
+      },
+      {
+        "type": "JSON",
+        "header": "genres",
+        "path": "genres"
+      },
+      {
+        "type": "JSON",
+        "header": "photoGallery",
+        "path": "photoGallery"
+      },
+      {
+        "type": "JSON",
+        "header": "id",
+        "path": "id"
+      }
+    ]
+  },
+  "mappings": [
+    {
+      "field": "photoGallery",
+      "header": "photoGallery",
+      "subfieldPath": [
+        {
+          "name": "image"
+        },
+        {
+          "name": "url"
+        }
+      ]
+    },
+    {
+      "field": "c_releaseDate",
+      "header": "releaseDate",
+      "subfieldPath": []
+    },
+    {
+      "field": "c_genres",
+      "header": "genres",
+      "subfieldPath": []
+    },
+    {
+      "field": "name",
+      "header": "name",
+      "subfieldPath": []
+    },
+    {
+      "field": "c_platform",
+      "header": "platform",
+      "subfieldPath": []
+    },
+    {
+      "field": "entityId",
+      "header": "id",
+      "subfieldPath": []
+    }
+  ]
+}

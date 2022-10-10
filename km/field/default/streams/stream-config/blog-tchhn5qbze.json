@@ -1,0 +1,27 @@
+{
+  "$id": "blog-tchhn5qbze",
+  "$schema": "https://schema.yext.com/config/streams/stream-config/v1",
+  "source": "knowledgeGraph",
+  "destination": "pages",
+  "fields": [
+    "id",
+    "name",
+    "datePosted",
+    "body",
+    "slug",
+    "c_coverPhoto",
+    "meta.locale",
+    "meta.entityType",
+    "uid"
+  ],
+  "filter": {
+    "entityTypes": [
+      "ce_blog"
+    ]
+  },
+  "localization": {
+    "locales": [
+      "en"
+    ]
+  }
+}

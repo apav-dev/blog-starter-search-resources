@@ -1,0 +1,162 @@
+{
+  "$id": "contentfulConnector",
+  "$schema": "https://schema.yext.com/config/km/connector/v3",
+  "displayName": "Contentful Connector",
+  "source": {
+    "sourceConfig": {
+      "apiPullConfig": {
+        "requestType": "GET",
+        "url": "https://cdn.contentful.com/spaces/9zjtxv0wik28/environments/master/entries",
+        "authentication": {
+          "bearerToken": "${{km/connector.contentfulConnector.api_bearer_token}}"
+        },
+        "headers": {},
+        "queryParams": {},
+        "dataFormat": "JSON"
+      }
+    },
+    "baseSelector": {
+      "type": "JSON",
+      "header": "Entity Container",
+      "path": "items"
+    },
+    "selectors": [
+      {
+        "type": "JSON",
+        "header": "metadata.tags",
+        "path": "metadata.tags"
+      },
+      {
+        "type": "JSON",
+        "header": "sys.space.sys.type",
+        "path": "sys.space.sys.type"
+      },
+      {
+        "type": "JSON",
+        "header": "sys.space.sys.linkType",
+        "path": "sys.space.sys.linkType"
+      },
+      {
+        "type": "JSON",
+        "header": "sys.space.sys.id",
+        "path": "sys.space.sys.id"
+      },
+      {
+        "type": "JSON",
+        "header": "sys.id",
+        "path": "sys.id"
+      },
+      {
+        "type": "JSON",
+        "header": "sys.type",
+        "path": "sys.type"
+      },
+      {
+        "type": "JSON",
+        "header": "sys.createdAt",
+        "path": "sys.createdAt"
+      },
+      {
+        "type": "JSON",
+        "header": "sys.updatedAt",
+        "path": "sys.updatedAt"
+      },
+      {
+        "type": "JSON",
+        "header": "sys.environment.sys.id",
+        "path": "sys.environment.sys.id"
+      },
+      {
+        "type": "JSON",
+        "header": "sys.environment.sys.type",
+        "path": "sys.environment.sys.type"
+      },
+      {
+        "type": "JSON",
+        "header": "sys.environment.sys.linkType",
+        "path": "sys.environment.sys.linkType"
+      },
+      {
+        "type": "JSON",
+        "header": "sys.revision",
+        "path": "sys.revision"
+      },
+      {
+        "type": "JSON",
+        "header": "sys.contentType.sys.type",
+        "path": "sys.contentType.sys.type"
+      },
+      {
+        "type": "JSON",
+        "header": "sys.contentType.sys.linkType",
+        "path": "sys.contentType.sys.linkType"
+      },
+      {
+        "type": "JSON",
+        "header": "sys.contentType.sys.id",
+        "path": "sys.contentType.sys.id"
+      },
+      {
+        "type": "JSON",
+        "header": "sys.locale",
+        "path": "sys.locale"
+      },
+      {
+        "type": "JSON",
+        "header": "fields.name",
+        "path": "fields.name"
+      },
+      {
+        "type": "JSON",
+        "header": "fields.nutrition.nodeType",
+        "path": "fields.nutrition.nodeType"
+      },
+      {
+        "type": "JSON",
+        "header": "fields.nutrition.content[].nodeType",
+        "path": "fields.nutrition.content[].nodeType"
+      },
+      {
+        "type": "JSON",
+        "header": "fields.nutrition.content[].content[].nodeType",
+        "path": "fields.nutrition.content[].content[].nodeType"
+      },
+      {
+        "type": "JSON",
+        "header": "fields.nutrition.content[].content[].value",
+        "path": "fields.nutrition.content[].content[].value"
+      },
+      {
+        "type": "JSON",
+        "header": "fields.nutrition.content[].content[].marks",
+        "path": "fields.nutrition.content[].content[].marks"
+      },
+      {
+        "type": "JSON",
+        "header": "fields.nutrition.content[].content[].content[].nodeType",
+        "path": "fields.nutrition.content[].content[].content[].nodeType"
+      },
+      {
+        "type": "JSON",
+        "header": "fields.nutrition.content[].content[].content[].content[].nodeType",
+        "path": "fields.nutrition.content[].content[].content[].content[].nodeType"
+      },
+      {
+        "type": "JSON",
+        "header": "fields.nutrition.content[].content[].content[].content[].content[].nodeType",
+        "path": "fields.nutrition.content[].content[].content[].content[].content[].nodeType"
+      },
+      {
+        "type": "JSON",
+        "header": "fields.nutrition.content[].content[].content[].content[].content[].value",
+        "path": "fields.nutrition.content[].content[].content[].content[].content[].value"
+      },
+      {
+        "type": "JSON",
+        "header": "fields.nutrition.content[].content[].content[].content[].content[].marks",
+        "path": "fields.nutrition.content[].content[].content[].content[].content[].marks"
+      }
+    ]
+  },
+  "mappings": []
+}

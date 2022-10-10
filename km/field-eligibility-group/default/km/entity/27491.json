@@ -1,0 +1,257 @@
+{
+  "$id": "27491",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_genres": [
+      "Platformer"
+    ],
+    "c_platform": "Game Boy Advance",
+    "c_releaseDate": "2002-10-25",
+    "name": "Kirby: Nightmare in Dream Land",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 419,
+          "sourceUrl": "https://media.rawg.io/media/screenshots/a20/a209d94b9b2d6a023c145c9b67674e0b.jpg",
+          "thumbnails": [
+            {
+              "height": 419,
+              "url": "http://a.mktgcdn.com/p/QEsrtqjQJ3fq0BEoSpzNo8gBS2Gl-DA1f6Rdiz_1pWQ/745x419.jpg",
+              "width": 745
+            },
+            {
+              "height": 348,
+              "url": "http://a.mktgcdn.com/p/QEsrtqjQJ3fq0BEoSpzNo8gBS2Gl-DA1f6Rdiz_1pWQ/619x348.jpg",
+              "width": 619
+            },
+            {
+              "height": 337,
+              "url": "http://a.mktgcdn.com/p/QEsrtqjQJ3fq0BEoSpzNo8gBS2Gl-DA1f6Rdiz_1pWQ/600x337.jpg",
+              "width": 600
+            },
+            {
+              "height": 110,
+              "url": "http://a.mktgcdn.com/p/QEsrtqjQJ3fq0BEoSpzNo8gBS2Gl-DA1f6Rdiz_1pWQ/196x110.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/QEsrtqjQJ3fq0BEoSpzNo8gBS2Gl-DA1f6Rdiz_1pWQ/745x419.jpg",
+          "width": 745
+        }
+      },
+      {
+        "image": {
+          "height": 419,
+          "sourceUrl": "https://media.rawg.io/media/screenshots/06d/06d2017a7d10c0d5c604efc0fc81f911.jpg",
+          "thumbnails": [
+            {
+              "height": 419,
+              "url": "http://a.mktgcdn.com/p/4HEvoQ-68_hA0KfXEWdGQeOtCDiXuCm_tC_6bNDhi0I/745x419.jpg",
+              "width": 745
+            },
+            {
+              "height": 348,
+              "url": "http://a.mktgcdn.com/p/4HEvoQ-68_hA0KfXEWdGQeOtCDiXuCm_tC_6bNDhi0I/619x348.jpg",
+              "width": 619
+            },
+            {
+              "height": 337,
+              "url": "http://a.mktgcdn.com/p/4HEvoQ-68_hA0KfXEWdGQeOtCDiXuCm_tC_6bNDhi0I/600x337.jpg",
+              "width": 600
+            },
+            {
+              "height": 110,
+              "url": "http://a.mktgcdn.com/p/4HEvoQ-68_hA0KfXEWdGQeOtCDiXuCm_tC_6bNDhi0I/196x110.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/4HEvoQ-68_hA0KfXEWdGQeOtCDiXuCm_tC_6bNDhi0I/745x419.jpg",
+          "width": 745
+        }
+      },
+      {
+        "image": {
+          "height": 419,
+          "sourceUrl": "https://media.rawg.io/media/screenshots/54e/54e584aca3ed66bce124b3b4df17d0d3.jpg",
+          "thumbnails": [
+            {
+              "height": 419,
+              "url": "http://a.mktgcdn.com/p/Wn6WrEh1ustKpehJNr15JR6F7DYcEV289Rpmk-bh7CA/745x419.jpg",
+              "width": 745
+            },
+            {
+              "height": 348,
+              "url": "http://a.mktgcdn.com/p/Wn6WrEh1ustKpehJNr15JR6F7DYcEV289Rpmk-bh7CA/619x348.jpg",
+              "width": 619
+            },
+            {
+              "height": 337,
+              "url": "http://a.mktgcdn.com/p/Wn6WrEh1ustKpehJNr15JR6F7DYcEV289Rpmk-bh7CA/600x337.jpg",
+              "width": 600
+            },
+            {
+              "height": 110,
+              "url": "http://a.mktgcdn.com/p/Wn6WrEh1ustKpehJNr15JR6F7DYcEV289Rpmk-bh7CA/196x110.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/Wn6WrEh1ustKpehJNr15JR6F7DYcEV289Rpmk-bh7CA/745x419.jpg",
+          "width": 745
+        }
+      },
+      {
+        "image": {
+          "height": 419,
+          "sourceUrl": "https://media.rawg.io/media/screenshots/926/926f71dede7abc0e31b75e366a87a94d.jpg",
+          "thumbnails": [
+            {
+              "height": 419,
+              "url": "http://a.mktgcdn.com/p/C5kphlmTCMTEAjxVj6ieKWoKsV081yEBdn9RxPiCug8/745x419.jpg",
+              "width": 745
+            },
+            {
+              "height": 348,
+              "url": "http://a.mktgcdn.com/p/C5kphlmTCMTEAjxVj6ieKWoKsV081yEBdn9RxPiCug8/619x348.jpg",
+              "width": 619
+            },
+            {
+              "height": 337,
+              "url": "http://a.mktgcdn.com/p/C5kphlmTCMTEAjxVj6ieKWoKsV081yEBdn9RxPiCug8/600x337.jpg",
+              "width": 600
+            },
+            {
+              "height": 110,
+              "url": "http://a.mktgcdn.com/p/C5kphlmTCMTEAjxVj6ieKWoKsV081yEBdn9RxPiCug8/196x110.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/C5kphlmTCMTEAjxVj6ieKWoKsV081yEBdn9RxPiCug8/745x419.jpg",
+          "width": 745
+        }
+      },
+      {
+        "image": {
+          "height": 419,
+          "sourceUrl": "https://media.rawg.io/media/screenshots/5d4/5d417235608ae8ee2ae3d75ab8ebd5c5.jpg",
+          "thumbnails": [
+            {
+              "height": 419,
+              "url": "http://a.mktgcdn.com/p/WdOBGJWZGchVvXB-m3H89s1po-zpVwmQ-xxYcz6xF0g/745x419.jpg",
+              "width": 745
+            },
+            {
+              "height": 348,
+              "url": "http://a.mktgcdn.com/p/WdOBGJWZGchVvXB-m3H89s1po-zpVwmQ-xxYcz6xF0g/619x348.jpg",
+              "width": 619
+            },
+            {
+              "height": 337,
+              "url": "http://a.mktgcdn.com/p/WdOBGJWZGchVvXB-m3H89s1po-zpVwmQ-xxYcz6xF0g/600x337.jpg",
+              "width": 600
+            },
+            {
+              "height": 110,
+              "url": "http://a.mktgcdn.com/p/WdOBGJWZGchVvXB-m3H89s1po-zpVwmQ-xxYcz6xF0g/196x110.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/WdOBGJWZGchVvXB-m3H89s1po-zpVwmQ-xxYcz6xF0g/745x419.jpg",
+          "width": 745
+        }
+      },
+      {
+        "image": {
+          "height": 419,
+          "sourceUrl": "https://media.rawg.io/media/screenshots/f1e/f1ecf602b2fee22cc26037dcc64c8ff0.jpg",
+          "thumbnails": [
+            {
+              "height": 419,
+              "url": "http://a.mktgcdn.com/p/fDL9_qSHZ3xVR0BLrb-KbbBp-Di5m19iGP-4bjabXYo/745x419.jpg",
+              "width": 745
+            },
+            {
+              "height": 348,
+              "url": "http://a.mktgcdn.com/p/fDL9_qSHZ3xVR0BLrb-KbbBp-Di5m19iGP-4bjabXYo/619x348.jpg",
+              "width": 619
+            },
+            {
+              "height": 337,
+              "url": "http://a.mktgcdn.com/p/fDL9_qSHZ3xVR0BLrb-KbbBp-Di5m19iGP-4bjabXYo/600x337.jpg",
+              "width": 600
+            },
+            {
+              "height": 110,
+              "url": "http://a.mktgcdn.com/p/fDL9_qSHZ3xVR0BLrb-KbbBp-Di5m19iGP-4bjabXYo/196x110.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/fDL9_qSHZ3xVR0BLrb-KbbBp-Di5m19iGP-4bjabXYo/745x419.jpg",
+          "width": 745
+        }
+      },
+      {
+        "image": {
+          "height": 419,
+          "sourceUrl": "https://media.rawg.io/media/screenshots/e4a/e4a852616b6a08b91e4d5dcc19b0c17c.jpg",
+          "thumbnails": [
+            {
+              "height": 419,
+              "url": "http://a.mktgcdn.com/p/wbRB78ClH7i41ZH9XWl7pnGXptL25Ycwg_6khcQXnis/745x419.jpg",
+              "width": 745
+            },
+            {
+              "height": 348,
+              "url": "http://a.mktgcdn.com/p/wbRB78ClH7i41ZH9XWl7pnGXptL25Ycwg_6khcQXnis/619x348.jpg",
+              "width": 619
+            },
+            {
+              "height": 337,
+              "url": "http://a.mktgcdn.com/p/wbRB78ClH7i41ZH9XWl7pnGXptL25Ycwg_6khcQXnis/600x337.jpg",
+              "width": 600
+            },
+            {
+              "height": 110,
+              "url": "http://a.mktgcdn.com/p/wbRB78ClH7i41ZH9XWl7pnGXptL25Ycwg_6khcQXnis/196x110.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/wbRB78ClH7i41ZH9XWl7pnGXptL25Ycwg_6khcQXnis/745x419.jpg",
+          "width": 745
+        }
+      },
+      {
+        "image": {
+          "height": 419,
+          "sourceUrl": "https://media.rawg.io/media/screenshots/a20/a209d94b9b2d6a023c145c9b67674e0b.jpg",
+          "thumbnails": [
+            {
+              "height": 419,
+              "url": "http://a.mktgcdn.com/p/QEsrtqjQJ3fq0BEoSpzNo8gBS2Gl-DA1f6Rdiz_1pWQ/745x419.jpg",
+              "width": 745
+            },
+            {
+              "height": 348,
+              "url": "http://a.mktgcdn.com/p/QEsrtqjQJ3fq0BEoSpzNo8gBS2Gl-DA1f6Rdiz_1pWQ/619x348.jpg",
+              "width": 619
+            },
+            {
+              "height": 337,
+              "url": "http://a.mktgcdn.com/p/QEsrtqjQJ3fq0BEoSpzNo8gBS2Gl-DA1f6Rdiz_1pWQ/600x337.jpg",
+              "width": 600
+            },
+            {
+              "height": 110,
+              "url": "http://a.mktgcdn.com/p/QEsrtqjQJ3fq0BEoSpzNo8gBS2Gl-DA1f6Rdiz_1pWQ/196x110.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/QEsrtqjQJ3fq0BEoSpzNo8gBS2Gl-DA1f6Rdiz_1pWQ/745x419.jpg",
+          "width": 745
+        }
+      }
+    ]
+  },
+  "entityType": "ce_vldeoGame",
+  "labels": []
+}

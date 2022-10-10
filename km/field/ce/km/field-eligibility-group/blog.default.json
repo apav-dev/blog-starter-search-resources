@@ -1,0 +1,13 @@
+{
+  "$id": "ce_blog.default",
+  "$schema": "https://schema.yext.com/config/km/field-eligibility-group/v1",
+  "name": "Blog-default",
+  "entityType": "ce_blog",
+  "fields": [
+    "body",
+    "c_coverPhoto",
+    "datePosted",
+    "slug"
+  ],
+  "required": []
+}

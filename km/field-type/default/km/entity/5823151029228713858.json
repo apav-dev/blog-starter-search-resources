@@ -1,0 +1,47 @@
+{
+  "$id": "5823151029228713858",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "c_moviePoster": {
+      "image": {
+        "height": 1500,
+        "sourceUrl": "https://m.media-amazon.com/images/M/MV5BZGMxZTdjZmYtMmE2Ni00ZTdkLWI5NTgtNjlmMjBiNzU2MmI5XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_FMjpg_UX964_.jpg",
+        "thumbnails": [
+          {
+            "height": 1500,
+            "url": "https://a.mktgcdn.com/p/9tbbAp3XbfYmi1Ud3HMFJ7ZCdNCNXmD5v6VlJ8xjmnU/964x1500.jpg",
+            "width": 964
+          },
+          {
+            "height": 963,
+            "url": "https://a.mktgcdn.com/p/9tbbAp3XbfYmi1Ud3HMFJ7ZCdNCNXmD5v6VlJ8xjmnU/619x963.jpg",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "https://a.mktgcdn.com/p/9tbbAp3XbfYmi1Ud3HMFJ7ZCdNCNXmD5v6VlJ8xjmnU/289x450.jpg",
+            "width": 289
+          },
+          {
+            "height": 305,
+            "url": "https://a.mktgcdn.com/p/9tbbAp3XbfYmi1Ud3HMFJ7ZCdNCNXmD5v6VlJ8xjmnU/196x305.jpg",
+            "width": 196
+          }
+        ],
+        "url": "https://a.mktgcdn.com/p/9tbbAp3XbfYmi1Ud3HMFJ7ZCdNCNXmD5v6VlJ8xjmnU/964x1500.jpg",
+        "width": 964
+      }
+    },
+    "description": "While Frodo and Sam edge closer to Mordor with the help of the shifty Gollum, the divided fellowship makes a stand against Sauron\u0027s new ally, Saruman, and his hordes of Isengard.",
+    "name": "The Lord of the Rings: The Two Towers"
+  },
+  "entityType": "ce_movie",
+  "folder": "yext/root",
+  "labels": []
+}

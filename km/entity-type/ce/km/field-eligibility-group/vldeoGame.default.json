@@ -1,0 +1,13 @@
+{
+  "$id": "ce_vldeoGame.default",
+  "$schema": "https://schema.yext.com/config/km/field-eligibility-group/v1",
+  "name": "Vldeo Game-default",
+  "entityType": "ce_vldeoGame",
+  "fields": [
+    "c_genres",
+    "c_platform",
+    "c_releaseDate",
+    "photoGallery"
+  ],
+  "required": []
+}
