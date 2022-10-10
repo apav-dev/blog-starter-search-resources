@@ -1,0 +1,298 @@
+{
+  "$id": "10297",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_genres": [
+      "Strategy",
+      "Simulation"
+    ],
+    "c_platform": "Nintendo Switch",
+    "c_releaseDate": "2016-10-20",
+    "name": "Sid Meier’s Civilization VI",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 1600,
+          "sourceUrl": "https://media.rawg.io/media/games/997/997ab4d67e96fb20a4092383477d4463.jpg",
+          "thumbnails": [
+            {
+              "height": 1600,
+              "url": "http://a.mktgcdn.com/p/QsJ5icDqq5_xA-hD8dBAdFdYgHXKYxHpiQ_fyZ6UEfc/2560x1600.jpg",
+              "width": 2560
+            },
+            {
+              "height": 1188,
+              "url": "http://a.mktgcdn.com/p/QsJ5icDqq5_xA-hD8dBAdFdYgHXKYxHpiQ_fyZ6UEfc/1900x1188.jpg",
+              "width": 1900
+            },
+            {
+              "height": 387,
+              "url": "http://a.mktgcdn.com/p/QsJ5icDqq5_xA-hD8dBAdFdYgHXKYxHpiQ_fyZ6UEfc/619x387.jpg",
+              "width": 619
+            },
+            {
+              "height": 375,
+              "url": "http://a.mktgcdn.com/p/QsJ5icDqq5_xA-hD8dBAdFdYgHXKYxHpiQ_fyZ6UEfc/600x375.jpg",
+              "width": 600
+            },
+            {
+              "height": 123,
+              "url": "http://a.mktgcdn.com/p/QsJ5icDqq5_xA-hD8dBAdFdYgHXKYxHpiQ_fyZ6UEfc/196x123.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/QsJ5icDqq5_xA-hD8dBAdFdYgHXKYxHpiQ_fyZ6UEfc/2560x1600.jpg",
+          "width": 2560
+        }
+      },
+      {
+        "image": {
+          "height": 1080,
+          "sourceUrl": "https://media.rawg.io/media/screenshots/cb8/cb84dc82bfe7aa4057f13b9d120e4a11.jpg",
+          "thumbnails": [
+            {
+              "height": 1080,
+              "url": "http://a.mktgcdn.com/p/IpYR-kZuB1lBpaLZHaopT1eHrqXyk7sXFYqg0WYr-ic/1920x1080.jpg",
+              "width": 1920
+            },
+            {
+              "height": 1069,
+              "url": "http://a.mktgcdn.com/p/IpYR-kZuB1lBpaLZHaopT1eHrqXyk7sXFYqg0WYr-ic/1900x1069.jpg",
+              "width": 1900
+            },
+            {
+              "height": 348,
+              "url": "http://a.mktgcdn.com/p/IpYR-kZuB1lBpaLZHaopT1eHrqXyk7sXFYqg0WYr-ic/619x348.jpg",
+              "width": 619
+            },
+            {
+              "height": 338,
+              "url": "http://a.mktgcdn.com/p/IpYR-kZuB1lBpaLZHaopT1eHrqXyk7sXFYqg0WYr-ic/600x338.jpg",
+              "width": 600
+            },
+            {
+              "height": 110,
+              "url": "http://a.mktgcdn.com/p/IpYR-kZuB1lBpaLZHaopT1eHrqXyk7sXFYqg0WYr-ic/196x110.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/IpYR-kZuB1lBpaLZHaopT1eHrqXyk7sXFYqg0WYr-ic/1920x1080.jpg",
+          "width": 1920
+        }
+      },
+      {
+        "image": {
+          "height": 1080,
+          "sourceUrl": "https://media.rawg.io/media/screenshots/241/2410ce2130e2a926cbeace46bf934a70.jpg",
+          "thumbnails": [
+            {
+              "height": 1080,
+              "url": "http://a.mktgcdn.com/p/PBJqQovaQyvVzmLAjgOkNSus0acQDY7U10KzHbaCwrU/1920x1080.jpg",
+              "width": 1920
+            },
+            {
+              "height": 1069,
+              "url": "http://a.mktgcdn.com/p/PBJqQovaQyvVzmLAjgOkNSus0acQDY7U10KzHbaCwrU/1900x1069.jpg",
+              "width": 1900
+            },
+            {
+              "height": 348,
+              "url": "http://a.mktgcdn.com/p/PBJqQovaQyvVzmLAjgOkNSus0acQDY7U10KzHbaCwrU/619x348.jpg",
+              "width": 619
+            },
+            {
+              "height": 338,
+              "url": "http://a.mktgcdn.com/p/PBJqQovaQyvVzmLAjgOkNSus0acQDY7U10KzHbaCwrU/600x338.jpg",
+              "width": 600
+            },
+            {
+              "height": 110,
+              "url": "http://a.mktgcdn.com/p/PBJqQovaQyvVzmLAjgOkNSus0acQDY7U10KzHbaCwrU/196x110.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/PBJqQovaQyvVzmLAjgOkNSus0acQDY7U10KzHbaCwrU/1920x1080.jpg",
+          "width": 1920
+        }
+      },
+      {
+        "image": {
+          "height": 1080,
+          "sourceUrl": "https://media.rawg.io/media/screenshots/3d5/3d5793b7fbab188f1ebd0f2e3e645bd2.jpg",
+          "thumbnails": [
+            {
+              "height": 1080,
+              "url": "http://a.mktgcdn.com/p/8X1tc9-17_nbkLr7IehRzaK8FjpkcxYi0ltvMpQHwgM/1920x1080.jpg",
+              "width": 1920
+            },
+            {
+              "height": 1069,
+              "url": "http://a.mktgcdn.com/p/8X1tc9-17_nbkLr7IehRzaK8FjpkcxYi0ltvMpQHwgM/1900x1069.jpg",
+              "width": 1900
+            },
+            {
+              "height": 348,
+              "url": "http://a.mktgcdn.com/p/8X1tc9-17_nbkLr7IehRzaK8FjpkcxYi0ltvMpQHwgM/619x348.jpg",
+              "width": 619
+            },
+            {
+              "height": 338,
+              "url": "http://a.mktgcdn.com/p/8X1tc9-17_nbkLr7IehRzaK8FjpkcxYi0ltvMpQHwgM/600x338.jpg",
+              "width": 600
+            },
+            {
+              "height": 110,
+              "url": "http://a.mktgcdn.com/p/8X1tc9-17_nbkLr7IehRzaK8FjpkcxYi0ltvMpQHwgM/196x110.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/8X1tc9-17_nbkLr7IehRzaK8FjpkcxYi0ltvMpQHwgM/1920x1080.jpg",
+          "width": 1920
+        }
+      },
+      {
+        "image": {
+          "height": 1080,
+          "sourceUrl": "https://media.rawg.io/media/screenshots/a12/a12c0d56a2c4e8f7b09761ab7f3bd44f.jpg",
+          "thumbnails": [
+            {
+              "height": 1080,
+              "url": "http://a.mktgcdn.com/p/3XHCmW9r2n9yGiIgTbToWZu61Enr8_m1Thm-s0_H9qg/1920x1080.jpg",
+              "width": 1920
+            },
+            {
+              "height": 1069,
+              "url": "http://a.mktgcdn.com/p/3XHCmW9r2n9yGiIgTbToWZu61Enr8_m1Thm-s0_H9qg/1900x1069.jpg",
+              "width": 1900
+            },
+            {
+              "height": 348,
+              "url": "http://a.mktgcdn.com/p/3XHCmW9r2n9yGiIgTbToWZu61Enr8_m1Thm-s0_H9qg/619x348.jpg",
+              "width": 619
+            },
+            {
+              "height": 338,
+              "url": "http://a.mktgcdn.com/p/3XHCmW9r2n9yGiIgTbToWZu61Enr8_m1Thm-s0_H9qg/600x338.jpg",
+              "width": 600
+            },
+            {
+              "height": 110,
+              "url": "http://a.mktgcdn.com/p/3XHCmW9r2n9yGiIgTbToWZu61Enr8_m1Thm-s0_H9qg/196x110.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/3XHCmW9r2n9yGiIgTbToWZu61Enr8_m1Thm-s0_H9qg/1920x1080.jpg",
+          "width": 1920
+        }
+      },
+      {
+        "image": {
+          "height": 1080,
+          "sourceUrl": "https://media.rawg.io/media/screenshots/482/482a21efe8c44e491d814ea6a3f5d443.jpg",
+          "thumbnails": [
+            {
+              "height": 1080,
+              "url": "http://a.mktgcdn.com/p/87xxvM49hDzwRnoWRSK0kfqs0z8F-JvpbZ61TEDbh5k/1920x1080.jpg",
+              "width": 1920
+            },
+            {
+              "height": 1069,
+              "url": "http://a.mktgcdn.com/p/87xxvM49hDzwRnoWRSK0kfqs0z8F-JvpbZ61TEDbh5k/1900x1069.jpg",
+              "width": 1900
+            },
+            {
+              "height": 348,
+              "url": "http://a.mktgcdn.com/p/87xxvM49hDzwRnoWRSK0kfqs0z8F-JvpbZ61TEDbh5k/619x348.jpg",
+              "width": 619
+            },
+            {
+              "height": 338,
+              "url": "http://a.mktgcdn.com/p/87xxvM49hDzwRnoWRSK0kfqs0z8F-JvpbZ61TEDbh5k/600x338.jpg",
+              "width": 600
+            },
+            {
+              "height": 110,
+              "url": "http://a.mktgcdn.com/p/87xxvM49hDzwRnoWRSK0kfqs0z8F-JvpbZ61TEDbh5k/196x110.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/87xxvM49hDzwRnoWRSK0kfqs0z8F-JvpbZ61TEDbh5k/1920x1080.jpg",
+          "width": 1920
+        }
+      },
+      {
+        "image": {
+          "height": 1080,
+          "sourceUrl": "https://media.rawg.io/media/screenshots/681/681a009d0a8bdafd01a871d5d07d9ec9.jpg",
+          "thumbnails": [
+            {
+              "height": 1080,
+              "url": "http://a.mktgcdn.com/p/9GSIv29uEjsRXJtUobx-gadtCxUfRVX3NzkjjcQjBm8/1920x1080.jpg",
+              "width": 1920
+            },
+            {
+              "height": 1069,
+              "url": "http://a.mktgcdn.com/p/9GSIv29uEjsRXJtUobx-gadtCxUfRVX3NzkjjcQjBm8/1900x1069.jpg",
+              "width": 1900
+            },
+            {
+              "height": 348,
+              "url": "http://a.mktgcdn.com/p/9GSIv29uEjsRXJtUobx-gadtCxUfRVX3NzkjjcQjBm8/619x348.jpg",
+              "width": 619
+            },
+            {
+              "height": 338,
+              "url": "http://a.mktgcdn.com/p/9GSIv29uEjsRXJtUobx-gadtCxUfRVX3NzkjjcQjBm8/600x338.jpg",
+              "width": 600
+            },
+            {
+              "height": 110,
+              "url": "http://a.mktgcdn.com/p/9GSIv29uEjsRXJtUobx-gadtCxUfRVX3NzkjjcQjBm8/196x110.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/9GSIv29uEjsRXJtUobx-gadtCxUfRVX3NzkjjcQjBm8/1920x1080.jpg",
+          "width": 1920
+        }
+      },
+      {
+        "image": {
+          "height": 1600,
+          "sourceUrl": "https://media.rawg.io/media/games/997/997ab4d67e96fb20a4092383477d4463.jpg",
+          "thumbnails": [
+            {
+              "height": 1600,
+              "url": "http://a.mktgcdn.com/p/QsJ5icDqq5_xA-hD8dBAdFdYgHXKYxHpiQ_fyZ6UEfc/2560x1600.jpg",
+              "width": 2560
+            },
+            {
+              "height": 1188,
+              "url": "http://a.mktgcdn.com/p/QsJ5icDqq5_xA-hD8dBAdFdYgHXKYxHpiQ_fyZ6UEfc/1900x1188.jpg",
+              "width": 1900
+            },
+            {
+              "height": 387,
+              "url": "http://a.mktgcdn.com/p/QsJ5icDqq5_xA-hD8dBAdFdYgHXKYxHpiQ_fyZ6UEfc/619x387.jpg",
+              "width": 619
+            },
+            {
+              "height": 375,
+              "url": "http://a.mktgcdn.com/p/QsJ5icDqq5_xA-hD8dBAdFdYgHXKYxHpiQ_fyZ6UEfc/600x375.jpg",
+              "width": 600
+            },
+            {
+              "height": 123,
+              "url": "http://a.mktgcdn.com/p/QsJ5icDqq5_xA-hD8dBAdFdYgHXKYxHpiQ_fyZ6UEfc/196x123.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/QsJ5icDqq5_xA-hD8dBAdFdYgHXKYxHpiQ_fyZ6UEfc/2560x1600.jpg",
+          "width": 2560
+        }
+      }
+    ]
+  },
+  "entityType": "ce_vldeoGame",
+  "labels": []
+}
